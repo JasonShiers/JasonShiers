@@ -1,2 +1,4 @@
-# JasonShiers.github.io
-Test
+- :pill: Drug discovery research leader [@SygnatureDiscovery](https://www.sygnaturediscovery.com)
+- :computer: Using data science and informatics to enable research programmes
+- :hammer_and_wrench: I build things with: `Python` `Knime` `SQL` `Django` `PHP` ...
+- :man_student: PhD in Synthetic Organic Chemistry
