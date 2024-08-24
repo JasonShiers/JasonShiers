@@ -1,4 +1,5 @@
 - :pill: Drug discovery research leader [@SygnatureDiscovery](https://www.sygnaturediscovery.com)
 - :computer: Using data science and informatics to enable research programmes
-- :hammer_and_wrench: I build things with: `Python` `Knime` `SQL` `Django` `PHP` ...
-- :man_student: PhD in Synthetic Organic Chemistry
+- :hammer_and_wrench: I build things with: `Python` `SQL` `Django` `PHP` `KNIME` ...
+- :beach_umbrella: I'm also interested in personal finance and energy tech
+- :mortar_board: PhD in Synthetic Organic Chemistry
